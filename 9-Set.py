@@ -8,4 +8,3 @@ a="hello world"
 a.lower()
 print(a.count('l'))
 
-# occurrences of 4
